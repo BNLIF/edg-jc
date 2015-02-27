@@ -1,0 +1,79 @@
+[
+    {
+        "date": "2014-02-12",
+        "author": "Elke-Caroline Aschenauer",
+        "title": "eRHIC",
+        "name": "NA",
+        "lunch": "Wei Tang"
+    },
+    {
+        "date": "2015-01-29",
+        "author": "Peter Yamin",
+        "title": "mu2e",
+        "name": "NA",
+        "lunch": "Wei Tang"
+    },
+    {
+        "date": "2014-12-04",
+        "author": "Clark McGrew",
+        "title": "Search for nu_e Disappearance at the T2K Near Detector",
+        "name": "NA",
+        "lunch": "Michael Mooney"
+    },
+    {
+        "date": "2014-11-20",
+        "author": "Alfredo Luccio",
+        "title": "proton EDM",
+        "name": "NA",
+        "lunch": "Wei Tang"
+    },
+    {
+        "date": "2014-11-13",
+        "author": "Michael Mooney",
+        "title": "Higgs Searches at CMS",
+        "name": "HiggsCMS_Mooney.pdf",
+        "lunch": "Jyoti Joshi"
+    },
+    {
+        "date": "2014-11-06",
+        "author": "Chao Zhang",
+        "title": "First Dark Matter Results from PandaX",
+        "name": "pandax_zhang.pdf",
+        "lunch": "Michael Mooney"
+    },
+    {
+        "date": "2014-10-16",
+        "author": "Xin Qian",
+        "title": "Single-Spin Asymmetry Measurement with Polarized 3He",
+        "name": "Single_Spin_Asymmetry_Qian.pptm",
+        "lunch": "Wei Tang"
+    },
+    {
+        "date": "2014-10-02",
+        "author": "Mary Bishai",
+        "title": "nnbar Oscillation",
+        "name": "nnbar_Bishai.pdf",
+        "lunch": "Wei Tang"
+    },
+    {
+        "date": "2014-09-18",
+        "author": "Wei Tang",
+        "title": "Reactor Antineutrino Spectrum",
+        "name": "Reactor_Anti-Neutrino_WeiTang.pdf",
+        "lunch": "Wei Tang"
+    },
+    {
+        "date": "2014-09-11",
+        "author": "Jason Crnkovic",
+        "title": "Muon g-2",
+        "name": "Muon_g-2.pdf",
+        "lunch": "Wei Tang"
+    },
+    {
+        "date": "2014-09-04",
+        "author": "Xin Qian",
+        "title": "Introduction to Neutrino Oscillation",
+        "name": "Introduction_to_Neutrino_Oscillation.pptx",
+        "lunch": "Wei Tang"
+    }
+]
