@@ -1,79 +1,107 @@
 [
     {
-        "date": "2014-02-12",
+        "date": "2015-04-23",
+        "author": "David Jaffe",
+        "title": "NaI(TI) Quenching and DAMA/LIBRA (arXiv:1503.07212)",
+        "docid": "NA",
+        "lunch": "Wei Tang"
+    },
+    {
+        "date": "2015-04-09",
+        "author": "Hucheng Chen",
+        "title": "LAr TPC Pad readout",
+        "docid": "NA",
+        "lunch": "Wei Tang"
+    },
+    {
+        "date": "2015-04-02",
+        "author": "Brian Kirby",
+        "title": "TBD",
+        "docid": "NA",
+        "lunch": "Wei Tang"
+    },
+    {
+        "date": "2015-03-26",
+        "author": "Elizabeth Worchester",
+        "title": "Probing New Physics with Kaon Decay",
+        "docid": 52,
+        "lunch": "Wei Tang"
+    },
+    {
+        "date": "2015-02-12",
         "author": "Elke-Caroline Aschenauer",
         "title": "eRHIC",
-        "name": "NA",
+        "docid": 34,
         "lunch": "Wei Tang"
     },
     {
         "date": "2015-01-29",
         "author": "Peter Yamin",
         "title": "mu2e",
-        "name": "NA",
+        "docid": 33,
         "lunch": "Wei Tang"
     },
     {
         "date": "2014-12-04",
         "author": "Clark McGrew",
         "title": "Search for nu_e Disappearance at the T2K Near Detector",
-        "name": "NA",
+        "docid": 32,
         "lunch": "Michael Mooney"
     },
     {
         "date": "2014-11-20",
         "author": "Alfredo Luccio",
         "title": "proton EDM",
-        "name": "NA",
+        "docid": 31,
         "lunch": "Wei Tang"
     },
     {
         "date": "2014-11-13",
         "author": "Michael Mooney",
         "title": "Higgs Searches at CMS",
-        "name": "HiggsCMS_Mooney.pdf",
+        "docid": 30,
         "lunch": "Jyoti Joshi"
     },
     {
         "date": "2014-11-06",
         "author": "Chao Zhang",
         "title": "First Dark Matter Results from PandaX",
-        "name": "pandax_zhang.pdf",
+        "docid": 29,
         "lunch": "Michael Mooney"
     },
     {
         "date": "2014-10-16",
         "author": "Xin Qian",
         "title": "Single-Spin Asymmetry Measurement with Polarized 3He",
-        "name": "Single_Spin_Asymmetry_Qian.pptm",
+        "docid": 28,
         "lunch": "Wei Tang"
     },
     {
         "date": "2014-10-02",
         "author": "Mary Bishai",
         "title": "nnbar Oscillation",
-        "name": "nnbar_Bishai.pdf",
+        "docid": 27,
         "lunch": "Wei Tang"
     },
     {
         "date": "2014-09-18",
         "author": "Wei Tang",
         "title": "Reactor Antineutrino Spectrum",
-        "name": "Reactor_Anti-Neutrino_WeiTang.pdf",
+        "docid": 26,
         "lunch": "Wei Tang"
     },
     {
         "date": "2014-09-11",
         "author": "Jason Crnkovic",
         "title": "Muon g-2",
-        "name": "Muon_g-2.pdf",
+        "docid": 25,
         "lunch": "Wei Tang"
     },
     {
         "date": "2014-09-04",
         "author": "Xin Qian",
         "title": "Introduction to Neutrino Oscillation",
-        "name": "Introduction_to_Neutrino_Oscillation.pptx",
+        "docid": 10,
         "lunch": "Wei Tang"
     }
 ]
