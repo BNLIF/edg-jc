@@ -10,7 +10,7 @@
   </head>
 
   <body ng-controller="DocDBCtrl">
-    
+
     <div class="row-fluid">
       <div class="span6">
         <h1>EDG Journal Club</h1>
@@ -36,8 +36,8 @@
         <th>Lunch Order</th>
       </thead>
       <tr ng-repeat="file in filtered = (files | filter:query)">
-        <td><a href="http://www.phy.bnl.gov/bnlif/cgi-bin/private/ShowDocument?docid={{file.docid}}">{{nFiles-$index}}</a></td>
-        <td><a class="title" href="http://www.phy.bnl.gov/bnlif/cgi-bin/private/ShowDocument?docid={{file.docid}}">{{file.title}}</a></td>
+        <td><a ng-class="file.docid" href="http://www.phy.bnl.gov/bnlif/cgi-bin/private/ShowDocument?docid={{file.docid}}">{{nFiles-$index}}</a></td>
+        <td class="title">{{file.title}}</td>
         <td class="speaker" >{{file.author}}</td>
         <td>{{file.date | date:mediumDate}}</td>
         <td>{{file.lunch}}</td>

@@ -1,23 +1,86 @@
 [
     {
+        "date": "2015-07-23",
+        "author": "Elizabeth Worcester",
+        "title": "Introduction to DUNE",
+        "docid": "NA",
+        "lunch": "Caroline Zhang"
+    },
+    {
+        "date": "2015-07-09",
+        "author": "Wei Tang",
+        "title": "Introduction to Daya Bay",
+        "docid": "NA",
+        "lunch": "Caroline Zhang"
+    },
+    {
+        "date": "2015-07-02",
+        "author": "Xin Qian",
+        "title": "Introduction to Statistics",
+        "docid": "NA",
+        "lunch": "Caroline Zhang"
+    },
+    {
+        "date": "2015-06-25",
+        "author": "Michael Mooney",
+        "title": "Introduction to MicroBooNE",
+        "docid": "NA",
+        "lunch": "Caroline Zhang"
+    },
+    {
+        "date": "2015-06-18",
+        "author": "Chao Zhang",
+        "title": "Highlights of Neutrino Physics at BNL (1955 - 2012)",
+        "docid": 68,
+        "lunch": "Caroline Zhang"
+    },
+    {
+        "date": "2014-06-11",
+        "author": "Jason Crnkovic",
+        "title": "An Introduction to Muon Physics",
+        "docid": "NA",
+        "lunch": "Caroline Zhang"
+    },
+    {
+        "date": "2015-06-04",
+        "author": "Bill Morse",
+        "title": "Introduction to Particle Physics",
+        "docid": "NA",
+        "lunch": "Caroline Zhang"
+    },
+    {
+        "date": "2015-05-07",
+        "author": "Yuri Fisyak",
+        "title": "TPC track reconstruction at STAR",
+        "docid": 66,
+        "lunch": "Caroline Zhang"
+    },
+    {
+        "date": "2015-04-30",
+        "author": "Alfredo Luccio",
+        "title": "Spin Polarimetry by Synchrotron Radiation",
+        "docid": "NA",
+        "lunch": "Wei Tang"
+    },
+    {
         "date": "2015-04-23",
         "author": "David Jaffe",
         "title": "NaI(TI) Quenching and DAMA/LIBRA (arXiv:1503.07212)",
-        "docid": "NA",
+        "docid": 58,
         "lunch": "Wei Tang"
     },
     {
         "date": "2015-04-09",
         "author": "Hucheng Chen",
         "title": "LAr TPC Pad readout",
-        "docid": "NA",
+        "docid": 56,
         "lunch": "Wei Tang"
     },
     {
         "date": "2015-04-02",
         "author": "Brian Kirby",
-        "title": "TBD",
-        "docid": "NA",
+        "title": "Review of Waveform Sampling ASICs in HEP",
+        "docid": 59,
         "lunch": "Wei Tang"
     },
     {
