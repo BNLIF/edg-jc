@@ -1,5 +1,5 @@
 function DocDBCtrl($scope, $http) {
-
+  $scope.today = new Date();
   $http.get('files.json').
     success(function(data) {
       $scope.files = data;

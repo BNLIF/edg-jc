@@ -1,8 +1,85 @@
 [
     {
+        "date": "2017-06-22",
+        "author": "Jyoti Joshi",
+        "title": "MicroBooNE",
+        "docid": "NA",
+        "lunch": "Hanyu Wei"
+    },
+    {
+        "date": "2017-06-15",
+        "author": "Milind Diwan",
+        "title": "Neutrino Detectors",
+        "docid": "133",
+        "lunch": "Hanyu Wei"
+    },
+    {
+        "date": "2016-08-05",
+        "author": "Milind Diwan",
+        "title": "Neutrino Oscillations",
+        "docid": "139",
+        "lunch": "NA"
+    },
+    {
+        "date": "2016-07-29",
+        "author": "Milind Diwan",
+        "title": "Neutrino Sources",
+        "docid": "159",
+        "lunch": "NA"
+    },
+    {
+        "date": "2016-07-15",
+        "author": "Milind Diwan",
+        "title": "Neutrino Interactions",
+        "docid": "158",
+        "lunch": "NA"
+    },
+    {
+        "date": "2016-07-08",
+        "author": "Bob Hackenburg",
+        "title": "Particle Oscillations: Mass Differences and Uncertainty",
+        "docid": "134",
+        "lunch": "NA"
+    },
+    {
+        "date": "2016-07-01",
+        "author": "Milind Diwan",
+        "title": "Neutrino Detectors",
+        "docid": "133",
+        "lunch": "NA"
+    },
+    {
+        "date": "2016-06-24",
+        "author": "Chao Zhang",
+        "title": "History of Neutrino Physics at BNL",
+        "docid": "131",
+        "lunch": "NA"
+    },
+    {
+        "date": "2016-06-17",
+        "author": "Bill Morse",
+        "title": "Introduction to Particle Physics",
+        "docid": "NA",
+        "lunch": "NA"
+    },
+    {
+        "date": "2015-09-17",
+        "author": "Mary Bishai",
+        "title": "PTOLEMY: Detecting Big Bang Neutrinos",
+        "docid": "NA",
+        "lunch": "Caroline Zhang"
+    },
+    {
         "date": "2015-07-23",
         "author": "Elizabeth Worcester",
         "title": "Introduction to DUNE",
+        "docid": 77,
+        "lunch": "Caroline Zhang"
+    },
+    {
+        "date": "2015-07-16",
+        "author": "Lindsey Bignell",
+        "title": "Introduction to Liquid Scintillator and Water-based LS",
         "docid": "NA",
         "lunch": "Caroline Zhang"
     },
@@ -16,8 +93,8 @@
     {
         "date": "2015-07-02",
         "author": "Xin Qian",
-        "title": "Introduction to Statistics",
-        "docid": "NA",
+        "title": "Introduction to Statistics in High Energy Physics",
+        "docid": 71,
         "lunch": "Caroline Zhang"
     },
     {
